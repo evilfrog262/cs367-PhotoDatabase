@@ -1,0 +1,10 @@
+DC vacation,our hotel,magnolias,Lincoln Memorial,Smithsonian,White House,U.S. Capitol,cherry blossoms
+Minneapolis,The Wedge,Nicollet Mall,Mary Tyler Moore statue,skyway 1,Block E,skyway 2,Target Center,skyway 3,Foshay Tower,Lake Harriet
+blizzard!,driveway snow plug,stuck bus,ice dam over doorway,monster snow drift,view from kitchen window
+car damage,front view,side view
+Thursday,img001,img003,img014,img015,img021,img036,img042
+buildings,White House,U.S. Capitol,WI Capitol,Foshay Tower,Bascom Hall,UW Fieldhouse,Union South,Kohl Center
+agility obstacles,A-frame,weave poles,see-saw,tunnel,dog walk,jump,tire jump,chute
+campus tour,UW Fieldhouse,Camp Randall,Union South,SERF,Kohl Center,Bascom Hall
+nature,cherry blossoms,Lake Harriet,Bascom Hall,magnolias,img014,monster snow drift
+giant animal statues (ND - MN - WI),orange moose (Black River Falls WI),Jamestown (ND) buffalo,New Salem (ND) holstein,Babe the blue ox (Bemidji MN),turtle on snowmobile (Bottineau ND),leaping deer (Deerwood MN),leaping deer (Black River Falls WI)
